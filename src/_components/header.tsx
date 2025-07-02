@@ -179,7 +179,7 @@ const Header = () => {
 
             </NavigationMenuList>
           </NavigationMenu>
-          <Button className="bg-purple-700 text-white hover:bg-purple-600">Quero usar a SomaPay</Button>
+          <Button className="bg-purple-700 text-white hover:bg-purple-600">Quero usar</Button>
         </nav>
 
 
@@ -199,7 +199,7 @@ const Header = () => {
             <Link href="#" className="block">Empresa</Link>
             <Link href="#" className="block">Recursos Flash</Link>
             <Link href="#" className="block">Login</Link>
-            <Button className="w-full bg-purple-700 text-white mt-2">Quero usar a SomaPay</Button>
+            <Button className="w-full bg-purple-700 text-white mt-2">Quero usar</Button>
 
           </div>
 
