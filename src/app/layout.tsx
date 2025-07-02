@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SomaPay",
-  description: "SomaPay seu banco digital",
+  title: "BancoMais",
+  description: "Seu banco digital",
 };
 
 export default function RootLayout({
