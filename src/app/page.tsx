@@ -13,7 +13,7 @@ export default function Home() {
 
       <section className="relative w-full h-[400px] md:h-[500px] lg:h-[600px]">
         <Image
-          src="/Section.png" // Altere esse path para o caminho real do seu banner
+          src="/" // Altere esse path para o caminho real do seu banner
           alt="Banner Flash"
           fill
           className="object-cover w-full h-full"
