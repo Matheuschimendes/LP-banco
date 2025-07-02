@@ -199,7 +199,7 @@ const Header = () => {
             <Link href="#" className="block">Empresa</Link>
             <Link href="#" className="block">Recursos Flash</Link>
             <Link href="#" className="block">Login</Link>
-            <Button className="w-full bg-pink-500 text-white mt-2">Quero usar a Flash</Button>
+            <Button className="w-full bg-pink-500 text-white mt-2">Quero usar a SomaPay</Button>
 
           </div>
 
