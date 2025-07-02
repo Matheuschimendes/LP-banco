@@ -186,7 +186,7 @@ const Header = () => {
 
         {/* Mobile Menu Button */}
         <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="md:hidden">
-          <Menu className="h-6 w-6 text-pink-500" />
+          <Menu className="h-6 w-6 text-purple-500" />
         </button>
       </div>
 
@@ -199,7 +199,7 @@ const Header = () => {
             <Link href="#" className="block">Empresa</Link>
             <Link href="#" className="block">Recursos Flash</Link>
             <Link href="#" className="block">Login</Link>
-            <Button className="w-full bg-pink-500 text-white mt-2">Quero usar a SomaPay</Button>
+            <Button className="w-full bg-purple-700 text-white mt-2">Quero usar a SomaPay</Button>
 
           </div>
 
