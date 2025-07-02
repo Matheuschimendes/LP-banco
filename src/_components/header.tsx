@@ -85,7 +85,7 @@ const blog: { title: string; href: string; description: string }[] = [
 ]
 
 
-const header = () => {
+const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   return (
     <header className="w-full bg-white shadow-md z-50 sticky top-0">
@@ -209,4 +209,4 @@ const header = () => {
   )
 }
 
-export default header
+export default Header
