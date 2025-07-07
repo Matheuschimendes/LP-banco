@@ -92,7 +92,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto flex justify-between items-center px-4 py-3 md:py-4">
         {/* Logo */}
         <Link href="/" className="mr-10">
-          <Image src="/" alt="Logo" width={170} height={40} />
+          <Image src="https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-1.svg" alt="Logo" width={100} height={10} />
         </Link>
 
         {/* Desktop Nav */}
@@ -179,9 +179,8 @@ const Header = () => {
 
             </NavigationMenuList>
           </NavigationMenu>
-          <Button className="bg-purple-700 text-white hover:bg-purple-600">Quero usar</Button>
         </nav>
-
+        <Button className="bg-purple-700 text-white hover:bg-purple-600 hidden md:block">Quero usar</Button>
 
 
         {/* Mobile Menu Button */}
